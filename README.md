@@ -12,9 +12,6 @@ Trabalho com Java e Spring no back-end e Angular ou React no front-end. Tenho ex
 
 <!-- Projetos em destaque: entra quando todos os projetos estiverem publicados -->
 
-## Números
-
-![Estatísticas do GitHub](./profile/stats.svg)
 ![Linguagens mais usadas](./profile/top-langs.svg)
 
 ## Contato
